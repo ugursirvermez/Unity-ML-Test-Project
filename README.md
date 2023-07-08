@@ -15,6 +15,7 @@ Unity Machine Learning, diğer adı MLAgents eklentisini kullanarak bir nesnenin
 ![2](https://github.com/ugursirvermez/Unity-ML-Test-Project/assets/6298796/f6e8cc81-f1e7-4950-8b73-51da6b25cdb9)
 ![3](https://github.com/ugursirvermez/Unity-ML-Test-Project/assets/6298796/1bde9765-cf12-47f2-8c62-15aaad344149)
 ![4](https://github.com/ugursirvermez/Unity-ML-Test-Project/assets/6298796/a4962802-fd6d-497b-abca-6b4baed049e4)
+![5](https://github.com/ugursirvermez/Unity-ML-Test-Project/assets/6298796/0e3c9fe3-4cf7-41bb-9ff3-3e0216a01672)
 # Proje Videosu
 ## İlk Deneme
 https://youtu.be/GcdpcQRi6Ko
