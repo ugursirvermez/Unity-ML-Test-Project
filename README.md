@@ -8,6 +8,8 @@ Unity Machine Learning, diğer adı MLAgents eklentisini kullanarak bir nesnenin
 - Projenin amacı, ilk defa Unity ile birlikte ML-Agent aracı kullandım. Basit olarak tasarladığım labirentin içinde karakterin kırmızı noktaya ulaşmasını sağladım.
 - Labirentin duvarlarına vurmak -1 puan, kırmızı hedefe ulaşmak +1 puan anlamına geliyor.
 - Her bir duvara vurma deneme sayısını "Attempt" arttırırken, bir kere kırmızı noktaya ulaşması ile birlikte kazandın yazıyor.
+## Projenin Sonucu
+- ML Agents training hızı düşük dolayısıyla hedefe ulaşmayla ilgili kapsamlı bir video hazırlamadım. İlk 4 denememdeki görüntü kayıtlarını aşağıda paylaştım. Hala bu projeye devam edilebilir.
 # Proje Görselleri
 ![1](https://github.com/ugursirvermez/Unity-ML-Test-Project/assets/6298796/5ed364ba-8107-4056-b8f4-4f50a71f787c)
 ![2](https://github.com/ugursirvermez/Unity-ML-Test-Project/assets/6298796/f6e8cc81-f1e7-4950-8b73-51da6b25cdb9)
