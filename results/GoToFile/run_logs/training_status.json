@@ -1,0 +1,29 @@
+{
+    "GoToFile": {
+        "checkpoints": [
+            {
+                "steps": 101595,
+                "file_path": "results\\GoToFile\\GoToFile\\GoToFile-101595.onnx",
+                "reward": null,
+                "creation_time": 1688830211.0559845,
+                "auxillary_file_paths": [
+                    "results\\GoToFile\\GoToFile\\GoToFile-101595.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 101595,
+            "file_path": "results\\GoToFile\\GoToFile.onnx",
+            "reward": null,
+            "creation_time": 1688830211.0559845,
+            "auxillary_file_paths": [
+                "results\\GoToFile\\GoToFile\\GoToFile-101595.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.1+cpu"
+    }
+}
