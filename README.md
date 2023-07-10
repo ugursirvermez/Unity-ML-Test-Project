@@ -4,6 +4,7 @@ Unity Machine Learning, diğer adı MLAgents eklentisini kullanarak bir nesnenin
 - Unity 2021
 - Python 3.9.13
 - Unity MLAgents 0.30.0
+- NOT: Unity'de yer alan Library, Packages ve Python venv klasörleri buraya eklenmedi bu kurulum için bir başka proje açıp assetleri oraya eklemeniz ve Python mlagents kurulumunu baştan yapmanız gerekiyor.
 # Ne Yapıldı?
 - Projenin amacı, ilk defa Unity ile birlikte ML-Agent aracı kullandım. Basit olarak tasarladığım labirentin içinde karakterin kırmızı noktaya ulaşmasını sağladım.
 - Labirentin duvarlarına vurmak -1 puan, kırmızı hedefe ulaşmak +1 puan anlamına geliyor.
